@@ -1,6 +1,7 @@
 title: SHART
 description: A simple GitHub Pages site
 theme: minima
+
 collections:
   books:
     output: true
