@@ -1,6 +1,6 @@
 title: SHART
 description: A simple GitHub Pages site
-theme: minima
+remote_theme: "mmistakes/so-simple-theme@3.2.0"
 
 collections:
   books:
