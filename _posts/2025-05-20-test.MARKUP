@@ -1,10 +1,15 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title: "Poor Charlie's Almanack"
+date: 2025-09-15
+excerpt: "Charles T. Munger"
+categories: books
+image: /images/pca.jpg
+colors: colors-a
 ---
 
-# Welcome
+**Worth reading score: 10/10**
 
-**Hello world**, this is my first Jekyll blog post.
+This book is a editorial collection of talks by the late Charlie Munger of Berkshire Hathaway.
 
-I hope you like it!
+The book has an overarching emphasis on the value of obtaining 'elementary worldly wisdom' through an approach of synthesizing the main ideas of the major academic disciplines and approaching problems using a mental check list of these ideas.
