@@ -1,3 +1,11 @@
-## Books I�ve Read
+## Books I’ve Read
 
-- [The Great Gatsby](/books/gatsby/)
+Welcome! Here are the books I’ve read:
+
+<ul>
+  {% for book in site.books %}
+    <li>
+      <a href="{{ book.url }}">{{ book.title }}</a> — {{ book.author }}
+    </li>
+  {% endfor %}
+</ul>
