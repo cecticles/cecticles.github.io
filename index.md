@@ -3,9 +3,9 @@
 Welcome! Here are the books I’ve read:
 
 <ul>
-  {% for book in site.books %}
+  {% for post in site.posts %}
     <li>
-      <a href="{{ book.url }}">{{ book.title }}</a> — {{ book.author }}
+      <a href="{{ post.url }}">{{ post.title }}</a>
     </li>
   {% endfor %}
 </ul>
